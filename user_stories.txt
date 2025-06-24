@@ -1,0 +1,20 @@
+Issue 1:
+Title: As a student, I need a Kanban board so that I can organize my tasks.
+Acceptance Criteria:
+Given I have multiple tasks to manage
+When I use a Kanban board
+Then I can see the progress of my project easily.
+
+Issue 2:
+Title: As a student, I need to track my sprint progress so that I can finish on time.
+Acceptance Criteria:
+Given the sprint has started
+When I complete tasks
+Then the burndown chart should reflect the progress.
+
+Issue 3:
+Title: As a student, I need to label and estimate all my tasks so that my sprint is organized.
+Acceptance Criteria:
+Given the tasks are listed
+When I add labels and estimates
+Then I can manage time better.

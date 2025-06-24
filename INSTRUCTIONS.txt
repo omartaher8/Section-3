@@ -1,0 +1,6 @@
+Instructions:
+1. Create a new public GitHub repository named 'final-project'.
+2. Upload all the contents of this ZIP file into your repository.
+3. Copy the repository URL and paste it into your assignment submission.
+4. Take a screenshot of the burndown_chart.txt or draw it in Excel.
+5. You're done! 🏁

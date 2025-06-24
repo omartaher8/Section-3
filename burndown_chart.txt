@@ -1,0 +1,11 @@
+Burndown Chart Example (text version):
+
+Day | Tasks Remaining
+----|-----------------
+ 1  | 6
+ 2  | 5
+ 3  | 3
+ 4  | 1
+ 5  | 0
+
+You can draw this as a line graph using any tool or include this table in your screenshot.
